@@ -1,5 +1,5 @@
 # VKR
-Moran model analysis
+Moran model analysis (math modeling & Markov chain was used)
 
 Тема ВКР:
 "Расчёт характеристик генетической эволюции в стохастических моделях Морана".
